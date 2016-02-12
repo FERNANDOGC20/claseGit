@@ -1,0 +1,17 @@
+commit 5ecc4a38e5f5314280c9acea4c98c49e95bd2a34
+Author: FERNANDOGC20 <fernando_gonzalez_cruz@hotmail.com>
+Date:   Fri Feb 12 10:23:53 2016 -0600
+
+    añadi musica
+
+commit 30dcc76854c51e94a6783435d1dfb895180971ac
+Author: FERNANDOGC20 <fernando_gonzalez_cruz@hotmail.com>
+Date:   Fri Feb 12 10:07:04 2016 -0600
+
+    terminado
+
+commit ade51cac1dddb99437060d5e97883fa02b21fa1b
+Author: FERNANDOGC20 <fernando_gonzalez_cruz@hotmail.com>
+Date:   Fri Feb 12 09:54:01 2016 -0600
+
+    iniciado repositorio
